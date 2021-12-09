@@ -1,0 +1,10 @@
+{
+  "name": "@tryer/second.css",
+  "license": "MIT",
+  "main": "index.css",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1tryer/second.css.git"
+  }
+}
